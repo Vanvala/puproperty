@@ -9,3 +9,7 @@ Author URI: https://agbuda.by/
 Licence: GPLv2 or later
 Text Domain: puproperty
  */
+
+if(!defined(ABSPATH)){
+    die;
+}
